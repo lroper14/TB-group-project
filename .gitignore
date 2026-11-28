@@ -1,7 +1,7 @@
 bulkRNA/fastq-files
 bulkRNA/samplesheet_nfcore_rnaseq.csv
 TB-scRNAseq/.empty
-TB-scRNAseq/.ipynb_checkpoints
+TB-scRNAseq/.ipynb_checkpoints/*
 TB-scRNAseq/.Rproj.user
 TB-scRNAseq/data
 TB-scRNAseq/my-virtual-env
